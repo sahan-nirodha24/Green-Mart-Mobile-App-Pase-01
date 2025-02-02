@@ -6,16 +6,16 @@ Green Mart is a mobile application designed for an online shopping platform, int
 
 ### 🚀 Features
 
-### 🔐 Authentication System
+#### 🔐 Authentication System
 
 + **Sign Up** – Users can create an account by providing their details.
 + **Login** – Registered users can log in using their credentials.
 + **Forgot Password** – Users can reset their password by verifying their username, phone number, and email address.
 
-### 🏠 Home Interface
+#### 🏠 Home Interface
 + Features **vertically and horizontally scrolling panels** showcasing the latest items in the shop.
 
-### 📌 Navigation
+#### 📌 Navigation
 
 + **Bottom Navigation Bar includes:**
   1) 🏠 Home
@@ -58,7 +58,7 @@ Green Mart is a mobile application designed for an online shopping platform, int
 2) Open the project in Android Studio.
 3) Build and run the app on an Android device or emulator.
 
-### 📷 Screenshots
+## 📷 Screenshots
 
 **Login Page of the Mobile App**
 ![Image](https://github.com/user-attachments/assets/0f40aa35-b8e3-430d-abe4-8bacdc292f1a)
