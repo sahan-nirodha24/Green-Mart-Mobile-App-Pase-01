@@ -2,7 +2,7 @@
 
 ### 📌 Overview 
 
-Green Mart is a mobile application designed for an online shopping platform, integrating various features to enhance the user experience. This app is built using **Kotlin ML and utilizes SQLite** for storing login credentials.
+Green Mart is a mobile application designed for an online shopping platform, integrating various features to enhance the user experience. This app is built using **Kotlin, ML, Gemini Api and utilizes SQLite** for storing login credentials.
 
 ### 🚀 Features
 
