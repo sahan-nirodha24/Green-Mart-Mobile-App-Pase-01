@@ -51,3 +51,11 @@ Green Mart is a mobile application designed for an online shopping platform, int
 + **Android Studio** (IDE)
 + **Google Ml Kit** (Machine Learning)
 + **Gemini Api** (Chat Bot)
+
+### 🛠 Installation
+
+1) Clone the repository:
+2) Open the project in Android Studio.
+3) Build and run the app on an Android device or emulator.
+
+### 📷 Screenshots
