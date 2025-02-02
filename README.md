@@ -59,3 +59,6 @@ Green Mart is a mobile application designed for an online shopping platform, int
 3) Build and run the app on an Android device or emulator.
 
 ### 📷 Screenshots
+
+### 📌 License
++ This project is open-source, and you are free to modify or enhance it as needed
