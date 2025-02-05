@@ -16,7 +16,7 @@ Green Mart is a mobile application designed for an online shopping platform, int
 + Features **vertically and horizontally scrolling panels** showcasing the latest items in the shop.
 
 #### 📌 Navigation
-
+[.gitignore](.gitignore)
 + **Bottom Navigation Bar includes:**
   1) 🏠 Home
   2) 👤 Profile
